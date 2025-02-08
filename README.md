@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Shane
+
+I dont know what to do next.<br>
+Guess I'm going to get to learning. See ya guys soon.<br>
+Feb 7, 2025
 
 <!--
 **rivrs02/rivrs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
